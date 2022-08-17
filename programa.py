@@ -9,5 +9,3 @@ moneda3=int(input('Valor de la moneda: '))
 if(moneda3<menorvalor):
         menorvalor=moneda3    
 print(f'La moneda con menor valor es {menorvalor}')
-    
-
